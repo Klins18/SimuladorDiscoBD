@@ -1,0 +1,6 @@
+CREATE TABLE estudiantes (
+    ciudad   VARCHAR(20),
+    edad     INTEGER,
+    carrera  VARCHAR(30),
+    pais     VARCHAR(15)
+);
